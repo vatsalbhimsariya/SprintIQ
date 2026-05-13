@@ -14,8 +14,9 @@
 
 ## 🔗 Live Demo
 
-- **Frontend:** [frontendsprintiq.up.railway.app]
-- **Backend API:** `[YOUR_RAILWAY_BACKEND_URL]`
+- **Frontend:** [frontendsprintiq.up.railway.app](https://frontendsprintiq.up.railway.app)
+
+- **Backend API:** [sprintiq-production.up.railway.app](https://sprintiq-production.up.railway.app)
 - **Demo Video:** `[YOUR_DEMO_VIDEO_LINK]`
 
 ---
